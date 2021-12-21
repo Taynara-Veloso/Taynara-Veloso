@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, My name is Taynara Veloso, Welcome! 😊
 
-<!--
-**Taynara-Veloso/Taynara-Veloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Digital Framework company.
+- 🌱 I’m currently learning Angular, TypeScript and C#.
+- 👯 I’m looking to collaborate on projects with accessibility and a good Ux Ui.
+- 🤔 I’m looking for help and tips to find good C# content to study.
+- 💍 ✨Married✨
+- 💬 Ask me about games, anime and I love Studio Ghibli movies too
+- 📫 How to reach me: my LinkedIn: https://www.linkedin.com/in/taynara-veloso-14155220a/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm an Opera singer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
