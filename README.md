@@ -13,5 +13,5 @@
 [![Taynara GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
 <div style="display: inline_block"><br>
-  <img font-size="small" alt="gif-tay" src="https://i.imgur.com/5l2xrBx.png">
+  <img alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
 </div>
