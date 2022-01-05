@@ -13,7 +13,7 @@
 
 [![Taynara GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
 
 ## I am learning:<br>
 <div style="display: inline_block; padding-left: 20px"><br>
