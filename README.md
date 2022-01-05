@@ -28,8 +28,8 @@
 <img align="right" height="200px" width="200px" alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
 
 ## Contacts:<br>
+
 <div>
-  
 <a href="https://www.facebook.com/profile.php?id=100007698904445" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sra.kaesarac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 <a href="https://web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
