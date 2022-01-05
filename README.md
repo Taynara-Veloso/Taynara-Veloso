@@ -10,20 +10,22 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an Opera singer.
 
-
-[![Taynara GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
+[![Taynara GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&hide=prs&count_private=true&show_icons=true&layout=compact&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&theme=dracula)](https://github.com/Taynara-Veloso/github-readme-stats)
-![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=dracula)](https://git.io/streak-stats)
 
 ## I am learning:<br>
-<div style="display: inline_block; padding-left: 20px"><br>
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>  
-  <img align="right" height="200px" width="200px" alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
+<div style="display: inline_block, padding-left: 100px"><br>
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</div>
+
+![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
+
+<img align="right" height="200px" width="200px" alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
 
 ## Contacts:<br>
 <div>
