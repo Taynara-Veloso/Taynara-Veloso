@@ -15,9 +15,9 @@
   
 <div align="center">
 <a href="https://github.com/Taynara-Veloso">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=radical&hide_border=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&hide_border=true&langs_count=7&theme=radical"/>  
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=radical&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&hide_border=true&langs_count=7&theme=radical"/>  
 </div>
   
 # <h3 align="center"> I am learning:</h3><br>
