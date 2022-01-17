@@ -1,4 +1,6 @@
-# <h4 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F6F7&lines=Hi%2C+I%C2%B4m+Taynara%2C+Welcome!+;I'm+still+new+as+a+developer;I+accept+constructive+opinions;To+improve+myself+as+a+Developer)](https://git.io/typing-svg)</h4>
+<img height="450px" width="100%" src="https://i.imgur.com/ihNKNpt.jpg" />
+
+# <h4 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F6F7&lines=I'm+still+new+as+a+developer;I+accept+constructive+opinions;To+improve+myself+as+a+Developer)](https://git.io/typing-svg)</h4>
 
 
 - 🔭 I’m currently working at Digital Framework company.
