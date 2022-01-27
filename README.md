@@ -31,7 +31,8 @@
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 	&nbsp;&#45;
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;&#45;
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;&#45;
-  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  	
+  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> &nbsp;&#45;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 </div>
 
 ![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
