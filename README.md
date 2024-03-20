@@ -18,8 +18,8 @@
 <div align="center">
 <a href="https://github.com/Taynara-Veloso">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Taynara-Veloso&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=radical&hide_border=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taynara-Veloso&layout=compact&hide_border=true&langs_count=7&theme=radical"/>  
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=radical&hide_border=true"/>
 </div>
   
 # <h3 align="center"> I am learning:</h3><br>
@@ -36,7 +36,20 @@
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
-![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <img align="right" height="200px" width="200px" alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
 
