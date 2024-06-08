@@ -48,8 +48,6 @@
   />
 </picture>
 
-![Snake animation](https://github.com/Taynara-Veloso/Taynara-Veloso/blob/output/github-contribution-grid-snake.svg)
-
 <img align="right" height="200px" width="200px" alt="gif-tay" src="https://i.imgur.com/TpgUqTM.png">
 
 # <h3 align="center">Contacts:</h3><br>
