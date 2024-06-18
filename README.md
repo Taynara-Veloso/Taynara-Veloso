@@ -22,7 +22,7 @@
 <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taynara-Veloso&layout=compact&theme=radical&hide_border=true"/>
 </div>
   
-# <h3 align="center"> I am learning:</h3><br>
+# <h3 align="center"></h3><br>
 <div align="center" style="display: inline_block"><br>
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 	&nbsp;&#45;
   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> &nbsp;&#45;
