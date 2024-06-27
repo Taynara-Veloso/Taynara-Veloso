@@ -3,15 +3,14 @@
 # <h4 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F6F7&lines=I'm+still+new+as+a+developer;I+accept+constructive+opinions;To+improve+myself+as+a+Developer)](https://git.io/typing-svg)</h4>
 
 
-- 🔭 I’m currently working at Digital Framework company.
-- 🌱 I’m currently learning Angular, TypeScript and C#.
-- 👯 I’m looking to collaborate on projects with accessibility and a good Ux Ui.
-- 🤔 I’m looking for help and tips to find good C# content to study.
+- 🌱 I’m currently learning React, TypeScript and Nodejs.
+- 👯 I’m looking to collaborate on projects with accessibility and a good UX/UI.
+- 📌 I’m looking for help and tips to find good C# content to study.
 - 💍 ✨Married✨
 - 💬 Ask me about games, anime and I love Studio Ghibli movies too
-- 📫 How to reach me: my LinkedIn: https://www.linkedin.com/in/taynara-veloso-14155220a/
+- 💌 How to interact with me: https://www.linkedin.com/in/taynara-veloso-14155220a/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an Opera singer.
+- 🎤 Fun fact: I'm an amateur Opera singer.
 
 # <h3 align="center">My Github Stats</h3>
   
